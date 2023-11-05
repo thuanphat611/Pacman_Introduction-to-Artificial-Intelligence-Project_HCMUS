@@ -1,6 +1,6 @@
 ### Introduction
 ![Pacman game example image.](/Docs/example.png)
-You are given a file that describes Pac-man World. Suggest or implement learned
+You are given a file that describes Pac-man World. Suggest or implement
 algorithms to assist Pac-Man in finding food without getting killed by monsters.
 In the game Pac-Man, both Pac-Man and the monsters are constrained to moving in four
 directions: left, right, up, and down. They are not able to move through walls. The game is
@@ -32,7 +32,7 @@ The value at position [i, j] (row i, column j) determines the presence of a wall
 or monster. A value of 1 represents a wall, 2 represents food, 3 represents a monster,
 and 0 represents an empty path.
 - The last line contains a pair of integers indicating the indices of Pacman's position
-(indices start from 0).
+(indices start from 0).\
 **Output:**
 - It is recommended to utilize a graphic library for displaying the results.
 - If a graphical display is not used, the result can be stored in a text file, such as
