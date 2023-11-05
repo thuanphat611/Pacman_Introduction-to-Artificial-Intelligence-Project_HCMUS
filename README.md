@@ -33,6 +33,7 @@ or monster. A value of 1 represents a wall, 2 represents food, 3 represents a mo
 and 0 represents an empty path.
 - The last line contains a pair of integers indicating the indices of Pacman's position
 (indices start from 0).
+
 \
 **Output:**
 - It is recommended to utilize a graphic library for displaying the results.
