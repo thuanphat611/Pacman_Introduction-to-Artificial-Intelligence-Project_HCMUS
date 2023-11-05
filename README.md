@@ -20,6 +20,7 @@ Pac-Man. Pac-Man must gather as much food as possible while avoiding being
 overtaken by any monster. The monsters have the ability to pass through each other.
 Both Pac-Man and the monsters move one step per turn, and the map contains a
 multitude of food items.
+
 The calculation of game points follows these rules:
 - Each movement deducts 1 point from your score.
 - Collecting each food item awards you 20 points.
